@@ -1,6 +1,7 @@
-# vuemovies
+# MOVIE SYSTEM:
+## VUE.JS, SLIM FRAMEWORK AND MySQL
 
-> Movie manager system with mysql and restful api
+> This is an application that uses: [VueJs](https://vuejs.org), [MySQL](https://www.mysql.com/) as our database and [Slim Framework](https://www.slimframework.com) to create web applications and APIs.
 
 ## Build Setup
 
